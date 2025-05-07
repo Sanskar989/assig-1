@@ -1,6 +1,4 @@
-Here is a simple, step-by-step explanation for your **README.md** file in plain text format:
 
----
 
 ## 📘 Assignment 1: Basic Git Workflow
 
@@ -53,5 +51,3 @@ To understand and practice fundamental Git commands and follow the basic version
 * ✅ This README.md summarizes the full workflow.
 
 ---
-
-Let me know if you want a sample `notes.txt` or screenshot template added too?
